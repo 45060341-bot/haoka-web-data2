@@ -73,5 +73,17 @@
  },
  "广电|29.0|192.0|||仅广西": {
   "simple": "cards/gdlyk_simple.jpg"
+ },
+ "联通|49.0|100.0|800||仅天津": {
+  "simple": "cards/lt_huoqiu_simple.jpg"
+ },
+ "联通|59.0|140.0|1000||仅天津": {
+  "simple": "cards/lt_huoyan_simple.jpg"
+ },
+ "联通|29.0|150.0|300|有|全国": {
+  "simple": "cards/lt_yongning_simple.jpg"
+ },
+ "联通|39.0|90.0|50||仅宿迁": {
+  "simple": "cards/lt_suqian201_simple.jpg"
  }
 }
