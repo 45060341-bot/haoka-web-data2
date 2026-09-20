@@ -112,5 +112,26 @@
  },
  "联通|39.0|115.0|200||仅黑龙江": {
   "simple": "cards/lt_qiaoli_simple.jpg"
+ },
+ "联通|49.0|280.0|300||全国": {
+  "simple": "cards/lt_kuaiyin_simple.jpg"
+ },
+ "广电|29.0|130.0|280||仅天津": {
+  "simple": "cards/gd_mijin_simple.jpg"
+ },
+ "联通|39.0|200.0|200||仅石家庄": {
+  "simple": "cards/lt_congxin_simple.jpg"
+ },
+ "联通|39.0|640.0|200|有|仅成都": {
+  "simple": "cards/lt_tianlong_simple.jpg"
+ },
+ "广电|20.0|150.0|200||仅陕西": {
+  "simple": "cards/gd_zhonglou_simple.jpg"
+ },
+ "广电|38.0|190.0|300||仅陕西": {
+  "simple": "cards/gd_xueqing_simple.jpg"
+ },
+ "广电|38.0|190.0|300||仅西安": {
+  "simple": "cards/gd_bibo_simple.jpg"
  }
 }
