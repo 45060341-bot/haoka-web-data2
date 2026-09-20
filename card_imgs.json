@@ -67,5 +67,11 @@
  },
  "联通|49.0|82.0|100||仅宁波": {
   "simple": "cards/lt_hyk_simple.jpg"
+ },
+ "移动|39.0|150.0|||仅武汉": {
+  "simple": "cards/ydwwk_simple.jpg"
+ },
+ "广电|29.0|192.0|||仅广西": {
+  "simple": "cards/gdlyk_simple.jpg"
  }
 }
