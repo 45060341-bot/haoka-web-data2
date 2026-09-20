@@ -85,5 +85,32 @@
  },
  "联通|39.0|90.0|50||仅宿迁": {
   "simple": "cards/lt_suqian201_simple.jpg"
+ },
+ "联通|29.0|150.0|300||仅重庆": {
+  "simple": "cards/lt_daji_simple.jpg"
+ },
+ "联通|39.0|190.0|200||仅重庆": {
+  "simple": "cards/lt_ducheng_simple.jpg"
+ },
+ "联通|39.0|85.0|200||仅新余": {
+  "simple": "cards/lt_xinyu1395_simple.jpg"
+ },
+ "联通|39.0|280.0|200||仅呼和浩特": {
+  "simple": "cards/lt_huhehaote1512_simple.jpg"
+ },
+ "联通|39.0|195.0|200||仅重庆": {
+  "simple": "cards/lt_cq1706_simple.jpg"
+ },
+ "联通|39.0|195.0|300||仅重庆": {
+  "simple": "cards/lt_cq1704_simple.jpg"
+ },
+ "联通|29.0|110.0|100||仅海南": {
+  "simple": "cards/lt_shuangxing_simple.jpg"
+ },
+ "联通|39.0|60.0|50||仅四川": {
+  "simple": "cards/lt_songhua_simple.jpg"
+ },
+ "联通|39.0|115.0|200||仅黑龙江": {
+  "simple": "cards/lt_qiaoli_simple.jpg"
  }
 }
