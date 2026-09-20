@@ -1,5 +1,71 @@
 {
-  "联通|39.0|200.0|200||全国": {"simple": "cards/lt_chaoling_simple.jpg"},
-  "广电|29.0|192.0|||全国": {"simple": "cards/gd_shanming_simple.png"},
-  "电信|29.0|150.0|200|有|全国": {"simple": "cards/dx_xingran_simple.jpg"}
+ "联通|39.0|200.0|200||全国": {
+  "simple": "cards/lt_chaoling_simple.jpg"
+ },
+ "广电|29.0|192.0|||全国": {
+  "simple": "cards/gd_shanming_simple.png"
+ },
+ "电信|29.0|150.0|200|有|全国": {
+  "simple": "cards/dx_xingran_simple.jpg"
+ },
+ "联通|29.0|100.0|200||仅重庆": {
+  "simple": "cards/lt_yyk_simple.jpg"
+ },
+ "联通|39.0|60.0|200||仅重庆": {
+  "simple": "cards/lt_thk_simple.jpg"
+ },
+ "广电|39.0|55.0|100||仅浙江": {
+  "simple": "cards/gd_hyk_simple.jpg"
+ },
+ "联通|39.0|150.0|100||仅广东": {
+  "simple": "cards/lt_hck_simple.jpg"
+ },
+ "广电|49.0|80.0|100||仅上海": {
+  "simple": "cards/gd_syk_simple.jpg"
+ },
+ "广电|29.0|130.0|200||仅福建": {
+  "simple": "cards/gd_fhk_simple.jpg"
+ },
+ "广电|39.0|180.0|250||仅福建": {
+  "simple": "cards/gd_lsk_simple.jpg"
+ },
+ "联通|39.0|150.0|200|有|全国": {
+  "simple": "cards/lt_xdk_simple.jpg"
+ },
+ "移动|39.0|150.0|||仅武汉": {
+  "simple": "cards/yd_wwk_simple.jpg"
+ },
+ "联通|39.0|240.0|50||仅四川": {
+  "simple": "cards/lt_szk_simple.jpg"
+ },
+ "广电|20.0|150.0|200||仅西安": {
+  "simple": "cards/gd_yyk_simple.jpg"
+ },
+ "广电|28.0|150.0|200||仅陕西": {
+  "simple": "cards/gd_snk_simple.jpg"
+ },
+ "联通|39.0|240.0|200||仅四川": {
+  "simple": "cards/lt_xyk_simple.jpg"
+ },
+ "电信|39.0|160.0|200||仅武汉": {
+  "simple": "cards/dx_39y160g_simple.jpg"
+ },
+ "电信|39.0|180.0|200||仅湖北": {
+  "simple": "cards/dx_hyk_simple.jpg"
+ },
+ "联通|42.0|200.0|500||仅喀什": {
+  "simple": "cards/lt_ksk_simple.jpg"
+ },
+ "联通|47.0|300.0|2000||仅乌鲁木齐": {
+  "simple": "cards/lt_wlk_simple.jpg"
+ },
+ "联通|49.0|200.0|1000||仅昌吉": {
+  "simple": "cards/lt_49y200g_simple.jpg"
+ },
+ "联通|39.0|155.0|100||仅广州": {
+  "simple": "cards/lt_jwk_simple.jpg"
+ },
+ "广电|29.0|192.0|||仅广西": {
+  "simple": "cards/gd_lyk_simple.jpg"
+ }
 }
