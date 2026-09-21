@@ -127,5 +127,26 @@
  },
  "广电|38.0|190.0|300||仅西安": {
   "simple": "cards/gd_bibo_simple.jpg"
+ },
+ "电信|39.0|160.0|200||仅武汉": {
+  "simple": "cards/dx_beitika_simple.jpg"
+ },
+ "联通|49.0|200.0|1000||仅昌吉": {
+  "simple": "cards/lt_changjika_simple.jpg"
+ },
+ "移动|39.0|150.0|||仅湖北": {
+  "simple": "cards/yd_sutingka_simple.jpg"
+ },
+ "联通|39.0|550.0|300||仅四川": {
+  "simple": "cards/lt_fenglangka_simple.jpg"
+ },
+ "联通|39.0|102.0|100||全国": {
+  "simple": "cards/lt_xinghuanka_simple.jpg"
+ },
+ "联通|29.0|150.0|500|有|仅浙江": {
+  "simple": "cards/lt_daxiangka_simple.jpg"
+ },
+ "移动|39.0|100.0|200||仅安徽": {
+  "simple": "cards/yd_tianyaka_simple.jpg"
  }
 }
