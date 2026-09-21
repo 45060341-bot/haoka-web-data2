@@ -169,5 +169,23 @@
  },
  "联通|39.0|370.0|200||仅江西": {
   "simple": "cards/lt_xixika_simple.jpg"
+ },
+ "移动|39.0|120.0|||仅湖北": {
+  "simple": "cards/yd_qiuquanka_simple.jpg"
+ },
+ "联通|29.0|280.0|200|有|仅四川": {
+  "simple": "cards/lt_baitaoka_simple.jpg"
+ },
+ "联通|29.0|430.0|200|有|仅成都": {
+  "simple": "cards/lt_g1qingxinka_simple.jpg"
+ },
+ "联通|29.0|550.0|300||仅成都": {
+  "simple": "cards/lt_shanlingka_simple.jpg"
+ },
+ "电信|49.0|285.0|480||仅厦门": {
+  "simple": "cards/dx_fengyunka_simple.jpg"
+ },
+ "移动|29.0|230.0|500||仅福州": {
+  "simple": "cards/yd_laojunka_simple.jpg"
  }
 }
