@@ -208,5 +208,20 @@
  },
  "联通|39.0|200.0|200||仅福建": {
   "simple": "cards/lt_mowankai_simple.jpg"
+ },
+ "广电|29.0|200.0|||仅重庆": {
+  "simple": "cards/gd_shengchuankai_simple.jpg"
+ },
+ "电信|39.0|190.0|200||全国": {
+  "simple": "cards/dx_mingyuka_simple.jpg"
+ },
+ "联通|29.0|180.0|100||全国": {
+  "simple": "cards/lt_limanka_simple.jpg"
+ },
+ "联通|39.0|100.0|400||仅福建": {
+  "simple": "cards/lt_tianyuka_simple.jpg"
+ },
+ "联通|39.0|240.0|200||全国": {
+  "simple": "cards/lt_yanzhika_simple.jpg"
  }
 }
