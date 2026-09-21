@@ -148,5 +148,26 @@
  },
  "移动|39.0|100.0|200||仅安徽": {
   "simple": "cards/yd_tianyaka_simple.jpg"
+ },
+ "联通|39.0|180.0|200||全国": {
+  "simple": "cards/lt_xinxika_simple.jpg"
+ },
+ "联通|39.0|140.0|500||仅库尔勒": {
+  "simple": "cards/lt_kuerka_simple.jpg"
+ },
+ "广电|29.0|200.0|||全国": {
+  "simple": "cards/gd_anmingka_simple.jpg"
+ },
+ "移动|29.0|230.0|500||仅福建": {
+  "simple": "cards/yd_jiantanka_simple.jpg"
+ },
+ "联通|29.0|230.0|200|有|仅四川": {
+  "simple": "cards/lt_guiyinka_simple.jpg"
+ },
+ "联通|39.0|200.0|200|有|仅武汉": {
+  "simple": "cards/lt_hanwuka_simple.jpg"
+ },
+ "联通|39.0|370.0|200||仅江西": {
+  "simple": "cards/lt_xixika_simple.jpg"
  }
 }
