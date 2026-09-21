@@ -334,5 +334,11 @@
  },
  "移动|39.0|280.0|200||仅呼和浩特": {
   "simple": "cards/yd_qilanka_simple.jpg"
+ },
+ "电信|39.0|280.0|200||仅呼和浩特": {
+  "simple": "cards/dx_zhengcheka_simple.jpg"
+ },
+ "电信|39.0|75.0|200||仅保定": {
+  "simple": "cards/dx_yuanhaoka_simple.jpg"
  }
 }
