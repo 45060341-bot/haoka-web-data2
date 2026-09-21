@@ -247,5 +247,26 @@
  },
  "移动|30.0|200.0|||仅山东": {
   "simple": "cards/yd_tiandouka_simple.jpg"
+ },
+ "联通|19.0|100.0|200||仅重庆": {
+  "simple": "cards/lt_qiujuka_simple.jpg"
+ },
+ "联通|39.0|350.0|800||仅库尔勒": {
+  "simple": "cards/lt_kuerleka_simple.jpg"
+ },
+ "移动|39.0|160.0|100||仅合肥": {
+  "simple": "cards/yd_huameika_simple.jpg"
+ },
+ "移动|39.9|255.0|200||仅成都": {
+  "simple": "cards/yd_jinpengka_simple.jpg"
+ },
+ "联通|49.0|450.0|1000||仅库尔勒": {
+  "simple": "cards/lt_dakuerleka_simple.jpg"
+ },
+ "广电|29.0|222.0|||全国": {
+  "simple": "cards/gd_mapoka_simple.jpg"
+ },
+ "移动|39.0|240.0|200||仅四川": {
+  "simple": "cards/yd_zhanjunka_simple.jpg"
  }
 }
