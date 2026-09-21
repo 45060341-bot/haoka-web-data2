@@ -292,5 +292,29 @@
  },
  "联通|40.0|55.0|50||仅常州": {
   "simple": "cards/lt_xlk_simple.jpg"
+ },
+ "联通|50.0|85.0|100||仅常州": {
+  "simple": "cards/lt_xhk_simple.jpg"
+ },
+ "电信|39.0|50.0|100||仅怀化": {
+  "simple": "cards/dx_qpk_simple.jpg"
+ },
+ "电信|49.0|80.0|100||仅怀化": {
+  "simple": "cards/dx_sqk_simple.jpg"
+ },
+ "电信|39.0|50.0|||仅常州": {
+  "simple": "cards/dx_fjk_simple.jpg"
+ },
+ "电信|49.0|80.0|||仅常州": {
+  "simple": "cards/dx_xyk2_simple.jpg"
+ },
+ "广电|29.0|100.0|100||仅厦门": {
+  "simple": "cards/gd_sgk_xm_simple.jpg"
+ },
+ "广电|39.0|150.0|150||仅厦门": {
+  "simple": "cards/gd_xsk_simple.jpg"
+ },
+ "广电|29.0|100.0|100||仅福建": {
+  "simple": "cards/gd_sgk_fj_simple.jpg"
  }
 }
