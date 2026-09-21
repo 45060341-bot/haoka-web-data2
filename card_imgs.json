@@ -268,5 +268,29 @@
  },
  "移动|39.0|240.0|200||仅四川": {
   "simple": "cards/yd_zhanjunka_simple.jpg"
+ },
+ "联通|29.0|550.0|300|有|仅四川": {
+  "simple": "cards/lt_jjk_simple.jpg"
+ },
+ "电信|38.0|190.0|300||仅山东": {
+  "simple": "cards/dx_tlk_simple.jpg"
+ },
+ "电信|39.0|190.0|300||仅山东": {
+  "simple": "cards/dx_tkk_simple.jpg"
+ },
+ "电信|39.0|150.0|100||仅安徽": {
+  "simple": "cards/dx_bhk_simple.jpg"
+ },
+ "联通|29.0|160.0|100||仅安徽": {
+  "simple": "cards/lt_zsk_simple.jpg"
+ },
+ "电信|39.0|150.0|100||仅合肥": {
+  "simple": "cards/dx_ahk_simple.jpg"
+ },
+ "移动|39.0|240.0|2000||仅福建": {
+  "simple": "cards/yd_hzk_simple.jpg"
+ },
+ "联通|40.0|55.0|50||仅常州": {
+  "simple": "cards/lt_xlk_simple.jpg"
  }
 }
