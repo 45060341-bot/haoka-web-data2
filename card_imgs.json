@@ -358,5 +358,35 @@
  },
  "联通|39.0|240.0|50||仅绵阳": {
   "simple": "cards/lt_huamei_simple.jpg"
+ },
+ "电信|40.0|200.0|200||仅唐山": {
+  "simple": "cards/dx_yunjin_simple.jpg"
+ },
+ "电信|50.0|280.0|300||仅唐山": {
+  "simple": "cards/dx_qizhan_simple.jpg"
+ },
+ "联通|39.0|150.0|200||全国": {
+  "simple": "cards/lt_xinyan_simple.jpg"
+ },
+ "联通|39.0|200.0|200|100|仅唐山": {
+  "simple": "cards/lt_gaishi_simple.jpg"
+ },
+ "联通|39.0|240.0|50||仅达州": {
+  "simple": "cards/lt_xuheng_simple.jpg"
+ },
+ "联通|59.0|110.0|400||仅厦门": {
+  "simple": "cards/lt_xiaotong_simple.jpg"
+ },
+ "电信|39.0|55.0|||仅清远": {
+  "simple": "cards/dx_xuanjuan_simple.jpg"
+ },
+ "电信|39.0|200.0|200||仅保定": {
+  "simple": "cards/dx_xiaojuan_simple.jpg"
+ },
+ "电信|49.0|85.0|||仅清远": {
+  "simple": "cards/dx_yaoyuan_simple.jpg"
+ },
+ "移动|39.0|55.0|||仅清远": {
+  "simple": "cards/yd_qilan_simple.jpg"
  }
 }
