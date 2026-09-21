@@ -187,5 +187,26 @@
  },
  "移动|29.0|230.0|500||仅福州": {
   "simple": "cards/yd_laojunka_simple.jpg"
+ },
+ "广电|29.0|200.0|||仅山东": {
+  "simple": "cards/gd_wushikai_simple.jpg"
+ },
+ "联通|39.0|550.0|300|有|仅四川": {
+  "simple": "cards/lt_mochakai_simple.jpg"
+ },
+ "电信|39.0|160.0|200||仅湖北": {
+  "simple": "cards/dx_beitikai_simple.jpg"
+ },
+ "联通|39.0|280.0|200|有|仅四川": {
+  "simple": "cards/lt_yingzikai_simple.jpg"
+ },
+ "联通|39.0|200.0|300||全国": {
+  "simple": "cards/lt_tianxikai_simple.jpg"
+ },
+ "联通|39.0|110.0|1200||仅福建": {
+  "simple": "cards/lt_fujianzuan_simple.jpg"
+ },
+ "联通|39.0|200.0|200||仅福建": {
+  "simple": "cards/lt_mowankai_simple.jpg"
  }
 }
