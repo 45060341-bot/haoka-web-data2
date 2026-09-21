@@ -223,5 +223,29 @@
  },
  "联通|39.0|240.0|200||全国": {
   "simple": "cards/lt_yanzhika_simple.jpg"
+ },
+ "移动|29.9|260.0|100||仅眉山": {
+  "simple": "cards/yd_jinlongka_simple.jpg"
+ },
+ "移动|39.0|200.0|200||全国": {
+  "simple": "cards/yd_shanquanka_simple.jpg"
+ },
+ "移动|39.9|305.0|200||仅眉山": {
+  "simple": "cards/yd_jinzuan_simple.jpg"
+ },
+ "广电|29.0|200.0|||仅吉林": {
+  "simple": "cards/gd_pipaka_simple.jpg"
+ },
+ "广电|29.0|200.0|||仅陕西": {
+  "simple": "cards/gd_qincaika_simple.jpg"
+ },
+ "广电|38.0|390.0|300||仅山东": {
+  "simple": "cards/gd_zhosika_simple.jpg"
+ },
+ "广电|29.0|100.0|100||仅陕西": {
+  "simple": "cards/gd_shanxika2_simple.jpg"
+ },
+ "移动|30.0|200.0|||仅山东": {
+  "simple": "cards/yd_tiandouka_simple.jpg"
  }
 }
