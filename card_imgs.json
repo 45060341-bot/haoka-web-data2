@@ -340,5 +340,23 @@
  },
  "电信|39.0|75.0|200||仅保定": {
   "simple": "cards/dx_yuanhaoka_simple.jpg"
+ },
+ "移动|61.0|180.0|600||仅随州": {
+  "simple": "cards/yd_feixiao_simple.jpg"
+ },
+ "移动|65.0|160.0|300||仅随州": {
+  "simple": "cards/yd_qinjuan_simple.jpg"
+ },
+ "移动|100.0|200.0|600||仅随州": {
+  "simple": "cards/yd_jingkun_simple.jpg"
+ },
+ "移动|39.9|255.0|100||仅绵阳": {
+  "simple": "cards/yd_zhenglan_simple.jpg"
+ },
+ "联通|39.0|150.0|100||仅中山": {
+  "simple": "cards/lt_nailong_simple.jpg"
+ },
+ "联通|39.0|240.0|50||仅绵阳": {
+  "simple": "cards/lt_huamei_simple.jpg"
  }
 }
