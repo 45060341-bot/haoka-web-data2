@@ -466,5 +466,11 @@
  },
  "广电|29.0|180.0|250||仅福建": {
   "simple": "cards/gd_fujianjianyue_simple.jpg"
+ },
+ "移动|30.0|200.0|100||仅菏泽": {
+  "simple": "cards/yd_sdzhuanshuka_simple.jpg"
+ },
+ "联通|29.0|150.0|500||仅浙江": {
+  "simple": "cards/lt_dapaka_simple.jpg"
  }
 }
