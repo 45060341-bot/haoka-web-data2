@@ -412,5 +412,32 @@
  },
  "联通|39.0|640.0|200|有|仅四川": {
   "simple": "cards/lt_mojie_simple.jpg"
+ },
+ "联通|29.0|430.0|300||仅成都": {
+  "simple": "cards/lt_lican_simple.jpg"
+ },
+ "联通|39.0|550.0|300||仅宜宾": {
+  "simple": "cards/lt_mocha_simple.jpg"
+ },
+ "电信|40.0|560.0|200|有|仅四川": {
+  "simple": "cards/dx_sichuan_simple.jpg"
+ },
+ "联通|30.0|315.0|300||仅山东": {
+  "simple": "cards/lt_baonian_simple.jpg"
+ },
+ "广电|38.0|390.0|300||仅潍坊": {
+  "simple": "cards/gd_haitang_simple.jpg"
+ },
+ "联通|29.0|280.0|200||仅宜宾": {
+  "simple": "cards/lt_baitao_simple.jpg"
+ },
+ "联通|29.0|280.0|200||全国": {
+  "simple": "cards/lt_huangye_simple.jpg"
+ },
+ "联通|29.0|280.0|200||仅四川": {
+  "simple": "cards/lt_fengshou_simple.jpg"
+ },
+ "广电|38.0|360.0|300||仅山东": {
+  "simple": "cards/gd_qiuzhi_simple.jpg"
  }
 }
