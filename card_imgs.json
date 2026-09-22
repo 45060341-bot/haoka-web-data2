@@ -400,5 +400,17 @@
  },
  "联通|49.0|85.0|||仅清远": {
   "simple": "cards/lt_hengjuan_simple.jpg"
+ },
+ "联通|15.0|540.0|200|有|仅南充": {
+  "simple": "cards/lt_huiguang_simple.jpg"
+ },
+ "联通|29.0|550.0|300||仅绵阳": {
+  "simple": "cards/lt_shanling_simple.jpg"
+ },
+ "联通|41.0|680.0|600||仅云南": {
+  "simple": "cards/lt_xiaofei_simple.jpg"
+ },
+ "联通|39.0|640.0|200|有|仅四川": {
+  "simple": "cards/lt_mojie_simple.jpg"
  }
 }
