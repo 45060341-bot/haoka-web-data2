@@ -439,5 +439,23 @@
  },
  "广电|38.0|360.0|300||仅山东": {
   "simple": "cards/gd_qiuzhi_simple.jpg"
+ },
+ "联通|39.0|360.0|300||仅潍坊": {
+  "simple": "cards/lt_cheshuo_simple.jpg"
+ },
+ "移动|29.9|260.0|100|有|仅眉山": {
+  "simple": "cards/yd_yuntuan_simple.jpg"
+ },
+ "联通|29.0|240.0|200||全国": {
+  "simple": "cards/lt_fumei_simple.jpg"
+ },
+ "移动|39.9|305.0|200|有|仅眉山": {
+  "simple": "cards/yd_yingying_simple.jpg"
+ },
+ "联通|39.0|300.0|100||全国": {
+  "simple": "cards/lt_hongzong_simple.jpg"
+ },
+ "联通|29.0|220.0|100||全国": {
+  "simple": "cards/lt_guiwang_simple.jpg"
  }
 }
