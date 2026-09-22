@@ -457,5 +457,14 @@
  },
  "联通|29.0|220.0|100||全国": {
   "simple": "cards/lt_guiwang_simple.jpg"
+ },
+ "移动|29.0|220.0|||仅柳州": {
+  "simple": "cards/yd_qikunka_simple.jpg"
+ },
+ "移动|79.0|390.0|2000||仅贵州": {
+  "simple": "cards/yd_jingyaoka_simple.jpg"
+ },
+ "广电|29.0|180.0|250||仅福建": {
+  "simple": "cards/gd_fujianjianyue_simple.jpg"
  }
 }
