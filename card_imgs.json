@@ -580,5 +580,14 @@
  },
  "电信|39.0|200.0|200||仅石家庄": {
   "simple": "cards/dx_shiyuka_simple.jpg"
+ },
+ "联通|39.0|200.0|200||仅唐山": {
+  "simple": "cards/lt_gaishika_simple.jpg"
+ },
+ "联通|39.0|200.0|200||仅武汉": {
+  "simple": "cards/lt_shanshuika_simple.jpg"
+ },
+ "联通|39.0|200.0|200|有|仅湖北": {
+  "simple": "cards/lt_hubeizhuanshuka_simple.jpg"
  }
 }
