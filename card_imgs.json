@@ -535,5 +535,29 @@
  },
  "移动|53.0|100.0|2500||仅绵阳": {
   "simple": "cards/yd_cheyuanka_simple.jpg"
+ },
+ "移动|29.9|180.0|100||仅绵阳": {
+  "simple": "cards/yd_qiongyaoka_simple.jpg"
+ },
+ "电信|38.0|210.0|300||仅潍坊": {
+  "simple": "cards/dx_taoweika2_simple.jpg"
+ },
+ "联通|39.0|240.0|50||仅德阳": {
+  "simple": "cards/lt_xuhengka_simple.jpg"
+ },
+ "联通|39.0|240.0|50||全国": {
+  "simple": "cards/lt_lanxiangka_simple.jpg"
+ },
+ "广电|29.0|180.0|||全国": {
+  "simple": "cards/gd_feixiangka_simple.jpg"
+ },
+ "移动|39.0|220.0|200||仅南宁": {
+  "simple": "cards/yd_zhanjunka2_simple.jpg"
+ },
+ "移动|50.0|200.0|1000||仅乌鲁木齐": {
+  "simple": "cards/yd_jinjunka_simple.jpg"
+ },
+ "移动|39.0|80.0|1500||仅扬州": {
+  "simple": "cards/yd_penghengka_simple.jpg"
  }
 }
