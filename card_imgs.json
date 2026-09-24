@@ -472,5 +472,20 @@
  },
  "联通|29.0|150.0|500||仅浙江": {
   "simple": "cards/lt_dapaka_simple.jpg"
+ },
+ "电信|19.0|530.0|1000|有|全国": {
+  "simple": "cards/dx_kunka_simple.jpg"
+ },
+ "电信|29.0|680.0|1000|有|全国": {
+  "simple": "cards/dx_jinglanka_simple.jpg"
+ },
+ "电信|39.0|830.0|1000|有|全国": {
+  "simple": "cards/dx_yunjinka_simple.jpg"
+ },
+ "电信|49.0|1030.0|1000|有|全国": {
+  "simple": "cards/dx_qizhanka_simple.jpg"
+ },
+ "联通|40.0|670.0|600||仅云南": {
+  "simple": "cards/lt_huanguka_simple.jpg"
  }
 }
