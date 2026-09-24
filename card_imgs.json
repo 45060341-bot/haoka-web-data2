@@ -676,5 +676,32 @@
  },
  "电信|39.0|160.0|100||全国": {
   "simple": "cards/dx_qingdi_simple.jpg"
+ },
+ "电信|39.0|160.0|100||仅安徽": {
+  "simple": "cards/dx_yunjin_simple.jpg"
+ },
+ "联通|39.0|155.0|100||仅佛山": {
+  "simple": "cards/lt_jianwu_simple.jpg"
+ },
+ "广电|39.0|150.0|150||仅武汉": {
+  "simple": "cards/gd_zhenghong_simple.jpg"
+ },
+ "联通|39.0|155.0|100||全国": {
+  "simple": "cards/lt_chenyun_simple.jpg"
+ },
+ "联通|39.0|150.0|100||仅东莞": {
+  "simple": "cards/lt_nailong_dg_simple.jpg"
+ },
+ "联通|39.0|130.0|300||仅兰州": {
+  "simple": "cards/lt_qijing_lz_simple.jpg"
+ },
+ "联通|39.0|150.0|100||仅广州": {
+  "simple": "cards/lt_nailong_gz_simple.jpg"
+ },
+ "电信|39.0|150.0|100||仅湖南": {
+  "simple": "cards/dx_xiangqi_simple.jpg"
+ },
+ "联通|39.0|150.0|100||仅茂名": {
+  "simple": "cards/lt_nailong_mm_simple.jpg"
  }
 }
