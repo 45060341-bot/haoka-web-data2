@@ -652,5 +652,8 @@
  },
  "电信|39.0|150.0|300||仅太原": {
   "simple": "cards/dx_qiyun_simple.jpg"
+ },
+ "电信|39.0|160.0|200||仅肇庆": {
+  "simple": "cards/dx_beiti_simple.jpg"
  }
 }
