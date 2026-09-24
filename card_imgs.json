@@ -71,59 +71,17 @@
  "联通|49.0|100.0|800||仅天津": {
   "simple": "cards/lt_huoqiu_simple.jpg"
  },
- "联通|59.0|140.0|1000||仅天津": {
-  "simple": "cards/lt_huoyan_simple.jpg"
- },
- "联通|29.0|150.0|300|有|全国": {
-  "simple": "cards/lt_yongning_simple.jpg"
- },
  "联通|39.0|90.0|50||仅宿迁": {
   "simple": "cards/lt_suqian201_simple.jpg"
  },
- "联通|29.0|150.0|300||仅重庆": {
-  "simple": "cards/lt_daji_simple.jpg"
- },
- "联通|39.0|190.0|200||仅重庆": {
-  "simple": "cards/lt_ducheng_simple.jpg"
- },
  "联通|39.0|85.0|200||仅新余": {
   "simple": "cards/lt_xinyu1395_simple.jpg"
- },
- "联通|39.0|280.0|200||仅呼和浩特": {
-  "simple": "cards/lt_huhehaote1512_simple.jpg"
- },
- "联通|39.0|195.0|200||仅重庆": {
-  "simple": "cards/lt_cq1706_simple.jpg"
- },
- "联通|39.0|195.0|300||仅重庆": {
-  "simple": "cards/lt_cq1704_simple.jpg"
  },
  "联通|29.0|110.0|100||仅海南": {
   "simple": "cards/lt_shuangxing_simple.jpg"
  },
  "联通|39.0|60.0|50||仅四川": {
   "simple": "cards/lt_songhua_simple.jpg"
- },
- "联通|39.0|115.0|200||仅黑龙江": {
-  "simple": "cards/lt_qiaoli_simple.jpg"
- },
- "联通|49.0|280.0|300||全国": {
-  "simple": "cards/lt_kuaiyin_simple.jpg"
- },
- "广电|29.0|130.0|280||仅天津": {
-  "simple": "cards/gd_mijin_simple.jpg"
- },
- "联通|39.0|200.0|200||仅石家庄": {
-  "simple": "cards/lt_congxin_simple.jpg"
- },
- "联通|39.0|640.0|200|有|仅成都": {
-  "simple": "cards/lt_tianlong_simple.jpg"
- },
- "广电|20.0|150.0|200||仅陕西": {
-  "simple": "cards/gd_zhonglou_simple.jpg"
- },
- "广电|38.0|190.0|300||仅陕西": {
-  "simple": "cards/gd_xueqing_simple.jpg"
  },
  "广电|38.0|190.0|300||仅西安": {
   "simple": "cards/gd_bibo_simple.jpg"
@@ -760,5 +718,14 @@
  },
  "移动|59.0|130.0|600||仅泉州": {
   "simple": "cards/yd_kunli_simple.jpg"
+ },
+ "移动|49.0|130.0|200||仅福建": {
+  "simple": "cards/yd_xiaohong_simple.jpg"
+ },
+ "联通|49.0|122.0|200||仅西安": {
+  "simple": "cards/lt_tongcan_simple.jpg"
+ },
+ "广电|240.0|350.0|200||仅武汉": {
+  "simple": "cards/gd_lingli_simple.jpg"
  }
 }
