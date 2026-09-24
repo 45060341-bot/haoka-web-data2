@@ -760,5 +760,8 @@
  },
  "联通|59.0|140.0|1000||仅天津": {
   "simple": "cards/lt-huoyan_simple.jpg"
+ },
+ "联通|39.0|115.0|200||仅黑龙江": {
+  "simple": "cards/lt-qiaoli_simple.jpg"
  }
 }
