@@ -718,5 +718,26 @@
  },
  "移动|59.0|200.0|400||仅贵州": {
   "simple": "cards/yd_qinxuan_simple.jpg"
+ },
+ "移动|29.0|225.0|400||仅泉州": {
+  "simple": "cards/yd_lanfei_simple.jpg"
+ },
+ "广电|19.0|130.0|200||仅福建": {
+  "simple": "cards/gd_wenfeng_simple.jpg"
+ },
+ "联通|39.0|280.0|200||全国": {
+  "simple": "cards/lt_qiufeng_simple.jpg"
+ },
+ "电信|39.0|235.0|100||仅广东": {
+  "simple": "cards/dx_lihua_simple.jpg"
+ },
+ "广电|39.0|150.0|150||仅长治": {
+  "simple": "cards/gd_hengqin_simple.jpg"
+ },
+ "广电|39.0|150.0|150||仅晋城": {
+  "simple": "cards/gd_hongche_simple.jpg"
+ },
+ "联通|39.0|130.0|200||仅南宁": {
+  "simple": "cards/lt_hongjin_simple.jpg"
  }
 }
