@@ -727,5 +727,26 @@
  },
  "广电|240.0|350.0|200||仅武汉": {
   "simple": "cards/gd_lingli_simple.jpg"
+ },
+ "联通|39.0|640.0|200|有|仅成都": {
+  "simple": "cards/lt-tianlong_simple.jpg"
+ },
+ "广电|20.0|150.0|200||仅陕西": {
+  "simple": "cards/gd-zhonglou_simple.jpg"
+ },
+ "联通|39.0|280.0|200||仅呼和浩特": {
+  "simple": "cards/lt-yingzi_simple.jpg"
+ },
+ "联通|49.0|280.0|300||全国": {
+  "simple": "cards/lt-liulian_simple.jpg"
+ },
+ "联通|29.0|150.0|300||仅重庆": {
+  "simple": "cards/lt-daji_simple.jpg"
+ },
+ "广电|38.0|190.0|300||仅陕西": {
+  "simple": "cards/gd-xueqing_simple.jpg"
+ },
+ "联通|39.0|195.0|300||仅重庆": {
+  "simple": "cards/lt-lansong_simple.jpg"
  }
 }
