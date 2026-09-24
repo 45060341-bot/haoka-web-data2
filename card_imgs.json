@@ -748,5 +748,14 @@
  },
  "联通|39.0|195.0|300||仅重庆": {
   "simple": "cards/lt-lansong_simple.jpg"
+ },
+ "联通|39.0|200.0|200||仅石家庄": {
+  "simple": "cards/lt-congxin_simple.jpg"
+ },
+ "联通|39.0|195.0|200||仅重庆": {
+  "simple": "cards/lt-yaohao_simple.jpg"
+ },
+ "联通|39.0|190.0|200||仅重庆": {
+  "simple": "cards/lt-ducheng_simple.jpg"
  }
 }
