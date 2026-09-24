@@ -610,5 +610,20 @@
  },
  "联通|39.0|200.0|200||仅南宁": {
   "simple": "cards/lt_gsk_nn_simple.jpg"
+ },
+ "移动|30.0|780.0|200|有|仅四川": {
+  "simple": "cards/yd_chuanshi_simple.jpg"
+ },
+ "移动|20.0|230.0|200||仅成都": {
+  "simple": "cards/yd_dongli_simple.jpg"
+ },
+ "移动|30.0|230.0|200|有|仅成都": {
+  "simple": "cards/yd_wangchuan_simple.jpg"
+ },
+ "广电|29.0|192.0|||仅湖北": {
+  "simple": "cards/gd_xiaohu_simple.jpg"
+ },
+ "广电|29.0|192.0|||仅江西": {
+  "simple": "cards/gd_shanyue_simple.jpg"
  }
 }
