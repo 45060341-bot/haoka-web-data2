@@ -757,5 +757,8 @@
  },
  "联通|39.0|190.0|200||仅重庆": {
   "simple": "cards/lt-ducheng_simple.jpg"
+ },
+ "联通|59.0|140.0|1000||仅天津": {
+  "simple": "cards/lt-huoyan_simple.jpg"
  }
 }
