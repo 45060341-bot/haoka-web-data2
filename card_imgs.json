@@ -625,5 +625,32 @@
  },
  "广电|29.0|192.0|||仅江西": {
   "simple": "cards/gd_shanyue_simple.jpg"
+ },
+ "电信|38.0|210.0|||仅山东": {
+  "simple": "cards/dx_jinglan_simple.jpg"
+ },
+ "联通|29.0|150.0|100||全国": {
+  "simple": "cards/lt_guxiang_simple.jpg"
+ },
+ "联通|39.0|180.0|200||仅十堰": {
+  "simple": "cards/lt_yangguang_simple.jpg"
+ },
+ "移动|39.0|200.0|||仅潍坊": {
+  "simple": "cards/yd_xianwei_simple.jpg"
+ },
+ "联通|49.0|200.0|400||仅兰州": {
+  "simple": "cards/lt_lingtao_simple.jpg"
+ },
+ "电信|39.0|170.0|200||仅沈阳": {
+  "simple": "cards/dx_kuntong_simple.jpg"
+ },
+ "联通|39.0|150.0|400||仅兰州": {
+  "simple": "cards/lt_yaoling_simple.jpg"
+ },
+ "联通|39.0|150.0|300||仅黑龙江": {
+  "simple": "cards/lt_yunquan_simple.jpg"
+ },
+ "电信|39.0|150.0|300||仅太原": {
+  "simple": "cards/dx_qiyun_simple.jpg"
  }
 }
