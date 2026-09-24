@@ -487,5 +487,32 @@
  },
  "联通|40.0|670.0|600||仅云南": {
   "simple": "cards/lt_huanguka_simple.jpg"
+ },
+ "联通|39.0|515.0|100||全国": {
+  "simple": "cards/lt_baojunka_simple.jpg"
+ },
+ "移动|20.0|230.0|200|有|仅眉山": {
+  "simple": "cards/yd_msmyk_simple.jpg"
+ },
+ "移动|20.0|230.0|200||仅眉山": {
+  "simple": "cards/yd_fengqinka_simple.jpg"
+ },
+ "移动|39.5|240.0|2000||仅福建": {
+  "simple": "cards/yd_zhenglanka_simple.jpg"
+ },
+ "联通|39.0|350.0|500||仅库尔勒": {
+  "simple": "cards/lt_taizuka_simple.jpg"
+ },
+ "移动|29.0|240.0|400||仅河南": {
+  "simple": "cards/yd_lanfeika_simple.jpg"
+ },
+ "联通|39.0|280.0|100||全国": {
+  "simple": "cards/lt_qingnuoka_simple.jpg"
+ },
+ "联通|29.0|200.0|100||全国": {
+  "simple": "cards/lt_miaomiaoka_simple.jpg"
+ },
+ "联通|29.0|180.0|200||全国": {
+  "simple": "cards/lt_xuyunka_simple.jpg"
  }
 }
