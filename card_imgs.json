@@ -741,6 +741,24 @@
   "simple": "cards/lt_hongjin_simple.jpg"
  },
  "移动|39.0|130.0|200||全国": {
-  "simple": "cards/dx_tongqi_simple.jpg"
+  "simple": "cards/yd_tongqi_simple.jpg"
+ },
+ "移动|39.0|120.0|300||仅贵州": {
+  "simple": "cards/yd_beihu_simple.jpg"
+ },
+ "移动|39.0|135.0|150||仅昆明": {
+  "simple": "cards/yd_zhanjun_simple.jpg"
+ },
+ "移动|39.0|130.0|200||仅南宁": {
+  "simple": "cards/yd_qionglan_simple.jpg"
+ },
+ "联通|49.0|150.0|300||全国": {
+  "simple": "cards/lt_qiyue_simple.jpg"
+ },
+ "移动|65.0|200.0|300||仅昆明": {
+  "simple": "cards/yd_songzheng_simple.jpg"
+ },
+ "移动|59.0|130.0|600||仅泉州": {
+  "simple": "cards/yd_kunli_simple.jpg"
  }
 }
