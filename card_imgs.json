@@ -739,5 +739,8 @@
  },
  "联通|39.0|130.0|200||仅南宁": {
   "simple": "cards/lt_hongjin_simple.jpg"
+ },
+ "移动|39.0|130.0|200||全国": {
+  "simple": "cards/dx_tongqi_simple.jpg"
  }
 }
