@@ -655,5 +655,26 @@
  },
  "电信|39.0|160.0|200||仅肇庆": {
   "simple": "cards/dx_beiti_simple.jpg"
+ },
+ "广电|49.0|180.0|450||仅天津": {
+  "simple": "cards/gd_xiaoxuan_simple.jpg"
+ },
+ "联通|49.0|180.0|400||仅太原": {
+  "simple": "cards/lt_lanyao_simple.jpg"
+ },
+ "广电|39.0|150.0|250||仅福建": {
+  "simple": "cards/gd_jianlong_simple.jpg"
+ },
+ "联通|39.0|150.0|200|有|仅湖南": {
+  "simple": "cards/lt_wantian_simple.jpg"
+ },
+ "移动|39.0|160.0|100||仅安徽": {
+  "simple": "cards/yd_juexue_simple.jpg"
+ },
+ "电信|39.0|150.0|200|有|全国": {
+  "simple": "cards/dx_xingbing_simple.jpg"
+ },
+ "电信|39.0|160.0|100||全国": {
+  "simple": "cards/dx_qingdi_simple.jpg"
  }
 }
