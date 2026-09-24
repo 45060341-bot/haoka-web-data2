@@ -703,5 +703,20 @@
  },
  "联通|39.0|150.0|100||仅茂名": {
   "simple": "cards/lt_nailong_mm_simple.jpg"
+ },
+ "联通|39.0|150.0|100||仅肇庆": {
+  "simple": "cards/lt_nailong_zq_simple.jpg"
+ },
+ "联通|49.0|180.0|200||仅武汉": {
+  "simple": "cards/lt_yanshuo_simple.jpg"
+ },
+ "移动|59.0|200.0|400||仅安顺": {
+  "simple": "cards/yd_hongxiao_simple.jpg"
+ },
+ "移动|59.0|200.0|400||仅贵阳": {
+  "simple": "cards/yd_jingjin_simple.jpg"
+ },
+ "移动|59.0|200.0|400||仅贵州": {
+  "simple": "cards/yd_qinxuan_simple.jpg"
  }
 }
