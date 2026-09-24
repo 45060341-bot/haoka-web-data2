@@ -514,5 +514,20 @@
  },
  "联通|29.0|180.0|200||全国": {
   "simple": "cards/lt_xuyunka_simple.jpg"
+ },
+ "联通|29.0|150.0|500|有|全国": {
+  "simple": "cards/lt_shengxiangka_simple.jpg"
+ },
+ "电信|28.0|190.0|||仅济南": {
+  "simple": "cards/dx_taoweika_simple.jpg"
+ },
+ "联通|39.0|240.0|200||仅成都": {
+  "simple": "cards/lt_xingyouka_simple.jpg"
+ },
+ "联通|39.0|240.0|200||仅绵阳": {
+  "simple": "cards/lt_yanzhika_simple.jpg"
+ },
+ "广电|29.0|192.0|||仅浙江": {
+  "simple": "cards/gd_luolanka_simple.jpg"
  }
 }
