@@ -589,5 +589,17 @@
  },
  "联通|39.0|200.0|200|有|仅湖北": {
   "simple": "cards/lt_hubeizhuanshuka_simple.jpg"
+ },
+ "联通|39.0|220.0|||仅福建": {
+  "simple": "cards/lt_jfk_simple.jpg"
+ },
+ "电信|39.0|220.0|||仅柳州": {
+  "simple": "cards/dx_wlk_simple.jpg"
+ },
+ "移动|39.0|220.0|||仅柳州": {
+  "simple": "cards/yd_plk_simple.jpg"
+ },
+ "联通|39.0|220.0|||仅柳州": {
+  "simple": "cards/lt_jfk_lz_simple.jpg"
  }
 }
