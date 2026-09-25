@@ -763,5 +763,8 @@
  },
  "联通|39.0|115.0|200||仅黑龙江": {
   "simple": "cards/lt-qiaoli_simple.jpg"
+ },
+ "移动|39.0|195.0|200||全国": {
+  "simple": "cards/ydtongqi_simple.jpg"
  }
 }
