@@ -766,5 +766,8 @@
  },
  "移动|39.0|195.0|200||全国": {
   "simple": "cards/ydtongqi_simple.jpg"
+ },
+ "电信|39.0|285.0|100||仅广东": {
+  "simple": "cards/dx_klk_simple.jpg"
  }
 }
