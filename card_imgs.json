@@ -769,5 +769,8 @@
  },
  "电信|39.0|285.0|100||仅广东": {
   "simple": "cards/dx_klk_simple.jpg"
+ },
+ "联通|29.0|175.0|100||全国": {
+  "simple": "cards/lt_lican_simple.jpg"
  }
 }
