@@ -793,5 +793,8 @@
  },
  "电信|39.0|205.0|100||仅广东": {
   "simple": "cards/dx_fenghuangka_simple.jpg"
+ },
+ "电信|39.0|185.0|||仅江西": {
+  "simple": "cards/dx_jxdzzxk_simple.jpg"
  }
 }
