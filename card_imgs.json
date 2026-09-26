@@ -772,5 +772,26 @@
  },
  "联通|29.0|175.0|100||全国": {
   "simple": "cards/lt_lican_simple.jpg"
+ },
+ "联通|29.0|300.0|200||全国": {
+  "simple": "cards/lt_feiwanka_simple.jpg"
+ },
+ "联通|29.0|280.0|100||全国": {
+  "simple": "cards/lt_yingshuoka_simple.jpg"
+ },
+ "联通|39.0|300.0|500||全国": {
+  "simple": "cards/lt_chongfengka_simple.jpg"
+ },
+ "联通|39.0|235.0|200||全国": {
+  "simple": "cards/lt_yaohaoka_simple.jpg"
+ },
+ "联通|39.0|200.0|300||仅重庆": {
+  "simple": "cards/lt_chongqingka_simple.jpg"
+ },
+ "移动|39.0|200.0|200||仅河北": {
+  "simple": "cards/yd_xianweika_simple.jpg"
+ },
+ "电信|39.0|205.0|100||仅广东": {
+  "simple": "cards/dx_fenghuangka_simple.jpg"
  }
 }
