@@ -796,5 +796,11 @@
  },
  "电信|39.0|185.0|||仅江西": {
   "simple": "cards/dx_jxdzzxk_simple.jpg"
+ },
+ "联通|29.0|280.0|100|有|全国": {
+  "simple": "cards/lt_jinchengka_simple.jpg"
+ },
+ "联通|39.0|550.0|200|有|全国": {
+  "simple": "cards/lt_wopaika_simple.jpg"
  }
 }
