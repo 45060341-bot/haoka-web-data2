@@ -802,5 +802,8 @@
  },
  "联通|39.0|550.0|200|有|全国": {
   "simple": "cards/lt_wopaika_simple.jpg"
+ },
+ "联通|29.0|270.0|200||全国": {
+  "simple": "cards/lt_qiuyuanka_simple.jpg"
  }
 }
