@@ -823,5 +823,29 @@
  },
  "联通|39.0|225.0|500|有|全国": {
   "simple": "cards/lt_cbk_simple.jpg"
+ },
+ "联通|20.0|120.0|200|有|全国": {
+  "simple": "cards/lt_mfltflk_simple.jpg"
+ },
+ "联通|20.0|120.0|200|有|仅白银": {
+  "simple": "cards/lt_byk_simple.jpg"
+ },
+ "联通|40.0|225.0|500|有|全国": {
+  "simple": "cards/lt_hlk_simple.jpg"
+ },
+ "联通|39.0|150.0|500||仅杭州": {
+  "simple": "cards/lt_39y150g_simple.jpg"
+ },
+ "广电|399.0|150.0|150||仅潍坊": {
+  "simple": "cards/gd_399y150g_simple.jpg"
+ },
+ "电信|38.0|190.0|||仅山东": {
+  "simple": "cards/dx_38y190g_simple.jpg"
+ },
+ "移动|69.0|180.0|1000||仅贵州": {
+  "simple": "cards/yd_69y180g_simple.jpg"
+ },
+ "移动|99.0|290.0|1000||仅贵州": {
+  "simple": "cards/yd_99y290g_simple.jpg"
  }
 }
