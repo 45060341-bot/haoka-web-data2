@@ -805,5 +805,23 @@
  },
  "联通|29.0|270.0|200||全国": {
   "simple": "cards/lt_qiuyuanka_simple.jpg"
+ },
+ "联通|360.0|300.0|300||仅山东": {
+  "simple": "cards/lt_360ybnk_simple.jpg"
+ },
+ "联通|30.0|220.0|400|有|仅江苏": {
+  "simple": "cards/lt_30y220g_simple.jpg"
+ },
+ "联通|28.0|200.0|300||仅潍坊": {
+  "simple": "cards/lt_fzk_simple.jpg"
+ },
+ "电信|38.0|310.0|||仅山东": {
+  "simple": "cards/dx_38y310g_simple.jpg"
+ },
+ "电信|39.0|300.0|100|有|全国": {
+  "simple": "cards/dx_zxk_simple.jpg"
+ },
+ "联通|39.0|225.0|500|有|全国": {
+  "simple": "cards/lt_cbk_simple.jpg"
  }
 }
